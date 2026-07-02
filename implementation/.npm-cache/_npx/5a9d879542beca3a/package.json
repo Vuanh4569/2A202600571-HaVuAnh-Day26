@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/inspector": "^0.22.0"
+  },
+  "_npx": {
+    "packages": [
+      "@modelcontextprotocol/inspector"
+    ]
+  }
+}
